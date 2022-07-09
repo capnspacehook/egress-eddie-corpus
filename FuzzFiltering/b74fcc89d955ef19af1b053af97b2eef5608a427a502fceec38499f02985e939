@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("\ninboundDNSQueue.ipv6 = 1\nselfDNSQuesFoipv4 = 2\nselfDNSQueue.ipv6 = 3\n\n[[filters]]\nname = \"foo\"\ndnsQueue.ipv6 = 1000\ntrafficQueue.ipv6 = 1001\nlookupUnknownIPs = true\nallowAnswersFor = \"5s\"\nallowedHostnames = [\"foo\"]")

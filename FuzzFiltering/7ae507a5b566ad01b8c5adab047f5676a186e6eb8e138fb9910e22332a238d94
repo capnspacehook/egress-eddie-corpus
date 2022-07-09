@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("e.ace.ipv=1\n[[filters]]\nname=\"\"\ndnsQueue.ipv4=1\ntaazficQueybzxcy=1\nreCacheEvery=\"0s\"\nallowAnswersFor=\"\"\nallowedHostnames=[\"\"]")

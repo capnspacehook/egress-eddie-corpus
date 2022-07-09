@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("\n\tinboundDNSQueue.ipv4 = 1\nselfDNSQueue.ipv4 = 100\n\n\t[[filters]]\n\tname =  \"foo\"\n\ttrafficQueue.ipv4 = 1001\n\treCacheEvery = \"1ns\"\n\tcachedHostnames = [\n\t\t\"oof\",\n\t\t\"rab\",\n\t]")
