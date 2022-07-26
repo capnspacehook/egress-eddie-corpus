@@ -1,2 +1,0 @@
-go test fuzz v1
-[]byte("[[filters]]\nreCACheEverY=\"0s\"\nAllowAnswersFor=\"0s\"#00000000000\nreCACheEvery=\"0s\"\nallowAnswersFor=\"0s\"")

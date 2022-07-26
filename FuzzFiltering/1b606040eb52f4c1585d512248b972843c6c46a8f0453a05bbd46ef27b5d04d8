@@ -1,2 +1,0 @@
-go test fuzz v1
-[]byte("X=0\nX0=0\nY=0\n[[filters]]\nX=\"\"\nY=100\nX0=100\nX1=100\nX2.0=100\nlookupUnknownIPs=true\nZ=\"\"\na.0.0.0=0\n[[filters]]\nX.0=100\n0.0=100\nY.0=100\nX0.0=100\nlookupUnknownIPs=true\nZ=\"\"\na=[]")

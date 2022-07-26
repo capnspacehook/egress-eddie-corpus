@@ -1,2 +1,0 @@
-go test fuzz v1
-[]byte("[[filters]]\ntrAffiCQueue.ipv6=100000")

@@ -1,2 +1,0 @@
-go test fuzz v1
-[]byte("inboundDNSQueue.a=0\ninboundDNSQueue.aaa0=100\nselfDNSQueue.aaa00=10\nselfDNSQueue.aaa01=10\n[[aaaaaaa]]\naaaa0= \"000\"\ndnsQueue.aaa00=10000\ndnsQueue.aaa01=10000\n000000000000.0000 0")

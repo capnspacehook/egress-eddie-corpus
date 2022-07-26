@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("inBoundDNSQueue.ipv4=1\nselfDNSQueue.Ipv4=100_0\n[[filters]]\nnAme=\"0\"\ntrAffiCQueue.ipv4=10\nlookupUnknownIPs=true")

@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("inBoundDNSQueue.ipv4=0x02\ninBoundDNSQueue.ipv6=0x01\nselfDNSQueue.ipv4=0x7\nselfDNSQueue.ipv6=0xA\n[[Filters]]\nnAme=\"0\"\ntrAffiCQueue.ipv4=8\nreCACheEvErY=\"1s\"\nCAChedHostnAmes=[\"A\"]\ntrAfFiCQueue.ipv6=9")
