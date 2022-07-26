@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("inBoundDNSQueue.ipv4=2\ninboundDNSQueue.ipv6=10\nselfDNSQueue.ipv4=128\nselfDNSQueue.ipv6=17\n[[filters]]\nnAme=\"2\"\ndnsQueue.ipv4=1200\ndnsQueue.ipv6=110\ntrafficQueue.ipv4=101\ntraffiCQueue.ipv6=+20\nAllowAnswersFor=\"1s\"\nAllowedHostnAmes=[\"A\"]#!\nname=\"7\"\n#100110112107021701\ntrAffiCQueue.ipv6=1\nlookupUnknownIPs=true\n[[filters]]\nnAme=\"9\"\ntRAffiCQueue.ipv4=9\ntraffiCQueue.ipv6=1\nreCaCheEverY=\"2s\"\nCaChedHostnames=[\"Y\"]\n[[filters]]\nname=\"C\"\ndnsQueue.ipv4=7\ndnsQueue.ipv6=71\nallowAllHostnames=true")
