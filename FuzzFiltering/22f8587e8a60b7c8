@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("0=0\n1=0\n2=0\n00=0\n[[filters]]\n0=\"\"\n1=0\nue.0=0\nue.1=0\n00000000000000=0\n2=\"\"\nAllowedHostnAmes=[]\n7=\"\"\nt.0000000000.0=0\n0=[]\n[[filters]]\n0=\"\"\ntrAffiCQueue.0=0\ntrAffiCQueue.1=0\n1=\"\"\nCAChedHostnAmes=[]\n2=\"\"\n000000000000.0=[]\n[[filters]]\n1=0\nY.0=0\nt.0000000000.0=\"\"\nY=\"\"\nCAChedHostnAmes=[]\n2=\"\"\n0.0=0\n0=0\n00=0\n")

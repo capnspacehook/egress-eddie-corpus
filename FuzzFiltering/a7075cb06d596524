@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("0.0=0\n0.00=0\n[[filters]]\nnAme=\"\"\ndnsQueue.ipv4=0\ntrAffiCQueue.ipv4=0\nlookupUnknownIPs=true\nreCACheEverY=\"0s\"\n_=[]\n0=\"\"\nAllowedHostnAmes=[]")

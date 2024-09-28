@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("AAAAAAAAAAA.aaa0 = 1\n[[aaaaaaa]]\naaaa = \"\"\na\xb0")

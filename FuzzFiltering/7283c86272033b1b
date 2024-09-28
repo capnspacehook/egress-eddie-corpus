@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("0.0.0.0=0\nsx0000000000.00=0\n[[filters]]\nX.0.0=0\nY=0\nZ=\"\"\na=[] \nb.00=0\nX0.0=0\nc=true\n[[filters]]\nZ.0=0\nX1.0=0\nY=\"\"\na=[] \nX.0=0\nCAx00000.0=0\nX0=true")

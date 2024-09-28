@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("X=0\nselfDNSQueue.iX=0\n[[filters]]\nX=0\nY=0\nX0=0\nX1=0\nZ=[] \nX2=0\na=true\n[[filters]]\nX=\"\"\nZ=0\nX0=0\nY=\"\"\na=[] \nX1=0")

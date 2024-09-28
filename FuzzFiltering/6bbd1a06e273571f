@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("A.0.0=0\n[[B]]\nA=\"0\"\nB.A=\"0\"\nA=[\n \"0\x1c")

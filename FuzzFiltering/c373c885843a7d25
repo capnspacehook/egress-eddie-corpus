@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("inboundDNSQueue.ipv4=0\n[[filters]]\nname=\"\"\nX=0\na00000000000000=true")

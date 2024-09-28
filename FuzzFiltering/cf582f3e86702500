@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("inBoundDNSQueue.0=0\ninBoundDNSQueue=0\nselfDNSQueue.0=0\nselfDNSQueue=\"\"\ndnsQueue.0=0\ndnsQueue=0\ntrAffiCQueue.0=0\ntrAffiCQueue.6=\"\"\ntrAffiCQueue.1=0#000000000000000000\ntrAffiCQueue.2=0\ntrAffiCQueue.0=0")

@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("aaaaaaaaaaa.aa00=10\naaaa0000aaaa.aaa00=10000\n[[aaaaaaa]]\naaaa0= \"000\"\naaa0aaaa.aaa00=10000\naaaaaaa0aaaa.aaa00=10000\naaaaaa0aaaaaa00a0= true\naa0aaaa0aaaa0= \"00\"\naaaaaa0aaaaaaaa0= [  \"000\",  \"000\"  ]\naaaaa0aaaaaa0aa0= \"00\"\naaaaaaa0aaaaaaaa0= [  \"000\",  \"000\",  \"000000\xb5")

@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("[[filters]]\ntrAffiCQueue.ipv4=0.0")

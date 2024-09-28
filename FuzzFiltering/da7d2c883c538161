@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("\n\n\n\n[[filters]]\n\n\n\n\ndnsQueue=0")

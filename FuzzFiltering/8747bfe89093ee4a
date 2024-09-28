@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("AAAAAAAAAAAAAAA0=0\nAAAAAAAAAAAAAAAAAAA0=0\nAAAAAAAAAAAAAAAA0 =0\nAAAAAAAAAAAAAAAA1 =0\n[[AAAAAAA]]\nAAAA =\"\"\nAAAAAAAAAAAA0 =10\nAaaAaaaa.aaa0 =1000\naaaaaaaAaaaa.aaa0 =1000\naaaaaaaAaaaa.aaa1 =1000\naaaaaAaaaaaaAaa =\"\"\naaaaaaaAaaaaaaaa =[]\n[[aaaaaaa]]\naaaa =\"\"\naaaaaaaAaaaa.aaa0 =1000\naaaaaaaAaaaa.aaa1 =1000\naaaaaaAaaaaaaAAa =true\n[[aaaaaaa]]\naaaa 0")
