@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("0=0\ninBoundDNSQueue.0=0\nselfDNSQueue.0=0\nselfDNSQueue.1=0\n[[filters]]\n1=\"\"\ndnsQueue.0=0\ndnsQueue.1=0\ntrAffiCQueue.0=0\ntrAffiCQueue.1=0\n2=0\n7=\"\"\n8=\"\"\n9=[]\nA=\"\"\ntrAfficQueue.0=0\n0=[]\n[[filters]]\n0=\"\"\ntrAffiCQueue.0=0\ntrAffiCQueue.1=0\n1=\"\"\n2=[]\n7=\"\"\ntrAfficQueue.0=[]\n[[filters]]\n1=\"\"\ntrAffiCQueue.0=0\ntrAffiCQueue.1=0\n2=\"\"\n7=[]\n8=\"\"\n0=0\n00=0\ndnsQueue.0=0")

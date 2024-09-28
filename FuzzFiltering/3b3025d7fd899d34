@@ -1,0 +1,2 @@
+go test fuzz v1
+[]byte("[[filters]]\nAllowAnswersFor=0\n[[filters]]\nAllowAnswersFor=0")
